@@ -1,4 +1,4 @@
-# Wizard Session: WQL Performance Tuning & Scalability
+# Wizard Session: WQL Performance Optimization
 
 **Date:** August 19, 2025
 
