@@ -8,10 +8,8 @@ This session covered the basics of optimizing Workday Query Language (WQL) for p
 
 ### Files Included
 
-* `/presentation/`
-    * `WQL-Performance-Tuning.pptx`: The main slide deck used during the session.
-* `/app-code/`
-    * The sample application.
+* [WQL Performance.pptx](WQL%20Performance.pptx): The main slide deck used during the session.
+* [tws_wqlsourcecode.zip](tws_wqlsourcecode.zip): The sample application.
 
 ---
 
