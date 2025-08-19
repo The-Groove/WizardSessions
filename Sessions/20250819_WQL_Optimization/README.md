@@ -13,4 +13,4 @@ This session covered the basics of optimizing Workday Query Language (WQL) for p
 
 ---
 
-[Link to the forum discussion for this session](https://forum.developer.workday.com/t/workday-extend-knowledge-sharing-sessions-kss-schedule-and-links/17921)
+[Link to the forum discussion for this session](https://forum.developer.workday.com/t/wizard-session-august-19-2025-wql-performance-optimization/27922)
