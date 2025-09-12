@@ -8,9 +8,9 @@ This session covered the ins and out of File Attachments.
 
 ### Files Included
 
-* [TWS_FileAttachments.pdf](TWS_FileAttachments.pdf): The main slide deck (PDF) used during the session.
-* [TWS_FileAttachments.pptx](TWS_FileAttachments.pptx): The main slide deck (PPTX) used during the session.
-* [tws_wqlsourcecode.zip](tws_attachments.zip): The sample application.
+* [Presentation (PDF)](TWS_FileAttachments.pdf): The main slide deck (PDF) used during the session.
+* [Presentation (PPTX)](TWS_FileAttachments.pptx): The main slide deck (PPTX) used during the session.
+* [Session Source Code](tws_attachments.zip): The sample application.
 
 ---
 
