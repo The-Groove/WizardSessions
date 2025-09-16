@@ -14,4 +14,4 @@ This session covered the ins and out of File Attachments.
 
 ---
 
-[Link to the forum discussion for this session](https://forum.developer.workday.com)
+[Link to the forum discussion for this session](https://forum.developer.workday.com/t/wizard-session-september-16-2025-file-attachments-demystified/28869)
