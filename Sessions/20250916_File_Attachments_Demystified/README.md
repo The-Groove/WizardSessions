@@ -1,4 +1,4 @@
-# Wizard Session: File Attachments, Demystified
+# Wizard Session: File Attachments Demystified
 
 **Date:** September 16, 2025
 
