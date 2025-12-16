@@ -8,9 +8,10 @@ This session covered the creation of objects to store proposed data, then persis
 
 ### Files Included
 
-* [.pptx](.pptx): The main slide deck used during the session.
-* [tws_.zip](tws_.zip): The sample application.
+* [WizardSessionCurrentProposed.pptx](WizardSessionCurrentProposed.pptx): The main slide deck used during the session.
+* [WizardSessionCurrentProposed.pdf](WizardSessionCurrentProposed.pdf): The main slide deck used during the session.
+* [tws_currentproposedbp.zip](tws_currentproposedbp.zip): The sample application.
 
 ---
 
-[Link to the forum discussion for this session](https://forum.developer.workday.com/t/wizard-session-december-16-2025-proposed-data-objects-xxxx)
+[Link to the forum discussion for this session](https://forum.developer.workday.com/t/wizard-session-december-16-2025-proposed-data-objects/33394)
