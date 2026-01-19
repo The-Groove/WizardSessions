@@ -1,7 +1,7 @@
 # Wizard Sessions
 | Date | Session |
 | ---- | ------- |
-|**January 20, 2026:**|[PMD Page Optimization](./Sessions/20260120_PMD_Page_Optimization)
+|**January 20, 2026:**|[Page Performance Optimization](./Sessions/20260120_Page_Performance_Optimization)
 |**December 16, 2025:**|[Proposed Data Objects](./Sessions/20251216_Proposed_Data_Objects)
 |**November 18, 2025:**|[Document Generation](./Sessions/20251118_Document_Generation)
 |**October 21, 2025:**|[Code Quality and Style](https://forum.developer.workday.com/t/wizard-session-october-21-2025-code-quality-and-style/30725)
