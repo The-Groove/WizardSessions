@@ -1,6 +1,7 @@
 # Wizard Sessions
 | Date | Session |
 | ---- | ------- |
+|**March 17, 2026**|[AI Widgets, Join Loops](./Sessions/20260317_AI_Widget_and_Join_Loop)
 |**February 17, 2026**|[Moji Magic](./Sessions/20260217_Moji_Magic)
 |**January 20, 2026:**|[Page Performance Optimization](./Sessions/20260120_Page_Performance_Optimization)
 |**December 16, 2025:**|[Proposed Data Objects](./Sessions/20251216_Proposed_Data_Objects)
