@@ -13,4 +13,7 @@ This session covered the Agent System of Record and the Agent Gateway
 
 ---
 
-[Link to the forum discussion for this session](https://forum.developer.workday.com/t/)
+### ASOR Assistant
+[ASOR Assistant](https://github.com/Developers-and-Dragons/asor-assist)
+
+[Link to the forum discussion for this session](https://forum.developer.workday.com/t/wizard-session-april-21-2026-agent-system-of-record/39076)
