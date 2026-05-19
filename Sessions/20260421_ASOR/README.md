@@ -1,6 +1,6 @@
 # Wizard Session: Agent System of Record (ASOR)
 
-**Date:** April 16, 2026
+**Date:** April 21, 2026
 
 This session covered the Agent System of Record and the Agent Gateway
 
